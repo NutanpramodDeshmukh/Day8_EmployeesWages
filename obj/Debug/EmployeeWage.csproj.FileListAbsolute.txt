@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\bin\Debug\EmployeeWage.exe.config
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\bin\Debug\EmployeeWage.exe
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\bin\Debug\EmployeeWage.pdb
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\obj\Debug\EmployeeWage.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\obj\Debug\EmployeeWage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\obj\Debug\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\obj\Debug\EmployeeWage.exe
+C:\Users\Uday\OneDrive\Desktop\OOPS concepts\EmployeeWage\obj\Debug\EmployeeWage.pdb
